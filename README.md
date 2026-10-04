@@ -7,7 +7,7 @@ I design and build AWS infrastructure as code, automate it with Python, and docu
 <p align="left">
    <a href="https://www.linkedin.com/in/francis-omar/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.credly.com/badges/9ab85d01-7d7b-4198-846d-de094c3ee271">
+   <a href="https://www.credly.com/badges/b528f494-d8a9-46e3-8281-a6aa405e07a8">
       <img alt="AWS CLF-C02" title="Verify my AWS certification" src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a> 
   <a href="https://www.credly.com/badges/9ab85d01-7d7b-4198-846d-de094c3ee271">
       <img alt="AWS SAP-C02" title="Verify my AWS certification" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-%23E05D44?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
